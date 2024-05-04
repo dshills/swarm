@@ -1,0 +1,9 @@
+---
+- Host: Groq
+  Model: llama3-70b-8192
+  API: OpenAI
+  BaseURL: https://api.groq.com/openai/v1
+  APIKey: <YOUR API KEY HERE>
+  Aliases:
+  - llama370b
+  - groq

@@ -1,0 +1,10 @@
+---
+Persona: You are an expert at answering questions about motor sports.
+Prompt: |
+  Write a detailed  answer about %%TASK%%.
+
+NeuronModels:
+  - groq
+
+ChangeResultFns:
+  - race_tuna
