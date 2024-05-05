@@ -5,9 +5,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dshills/swarm/comm"
-	"github.com/dshills/swarm/def"
-	"github.com/dshills/swarm/signal"
+	"github.com/dshills/swarm/brain/comm"
+	"github.com/dshills/swarm/brain/def"
+	"github.com/dshills/swarm/brain/signal"
 	"github.com/google/uuid"
 )
 

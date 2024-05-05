@@ -3,9 +3,9 @@ package brain
 import (
 	"path/filepath"
 
-	"github.com/dshills/swarm/comm"
-	"github.com/dshills/swarm/def"
-	"github.com/dshills/swarm/lua"
+	"github.com/dshills/swarm/brain/comm"
+	"github.com/dshills/swarm/brain/def"
+	"github.com/dshills/swarm/brain/lua"
 )
 
 const (

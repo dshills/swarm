@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	brain "github.com/dshills/swarm"
+	"github.com/dshills/swarm/brain"
 )
 
 func TestLoad(t *testing.T) {

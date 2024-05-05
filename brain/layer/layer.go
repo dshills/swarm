@@ -4,13 +4,13 @@ import (
 	"log"
 	"sync"
 
-	"github.com/dshills/swarm/comm"
-	"github.com/dshills/swarm/def"
-	"github.com/dshills/swarm/lua"
-	"github.com/dshills/swarm/neuron"
-	"github.com/dshills/swarm/signal"
-	"github.com/dshills/swarm/task"
-	"github.com/dshills/swarm/trans"
+	"github.com/dshills/swarm/brain/comm"
+	"github.com/dshills/swarm/brain/def"
+	"github.com/dshills/swarm/brain/lua"
+	"github.com/dshills/swarm/brain/neuron"
+	"github.com/dshills/swarm/brain/signal"
+	"github.com/dshills/swarm/brain/task"
+	"github.com/dshills/swarm/brain/trans"
 	"github.com/google/uuid"
 )
 

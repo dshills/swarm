@@ -3,7 +3,7 @@ package signal
 import (
 	"time"
 
-	"github.com/dshills/swarm/comm"
+	"github.com/dshills/swarm/brain/comm"
 	"github.com/google/uuid"
 )
 

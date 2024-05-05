@@ -3,10 +3,10 @@ package trans
 import (
 	"fmt"
 
-	"github.com/dshills/swarm/def"
-	"github.com/dshills/swarm/lua"
-	"github.com/dshills/swarm/neuron"
-	"github.com/dshills/swarm/signal"
+	"github.com/dshills/swarm/brain/def"
+	"github.com/dshills/swarm/brain/lua"
+	"github.com/dshills/swarm/brain/neuron"
+	"github.com/dshills/swarm/brain/signal"
 )
 
 type Transmitter interface {

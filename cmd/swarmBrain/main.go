@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	brain "github.com/dshills/swarm"
+	"github.com/dshills/swarm/brain"
 )
 
 func main() {
